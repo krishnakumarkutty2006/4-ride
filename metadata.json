@@ -1,0 +1,6 @@
+{
+  "name": "4 Ride",
+  "description": "Ride booking app for passengers, drivers, and admins with real-time map tracking, custom driver pricing, live chat, and ride management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

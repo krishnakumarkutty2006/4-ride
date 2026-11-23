@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">4 Ride</string>
+    <string name="role_passenger">Passenger</string>
+    <string name="role_driver">Driver</string>
+    <string name="role_admin">Admin</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_requests">Requests</string>
+    <string name="nav_earnings">Earnings</string>
+    <string name="sos_emergency">SOS</string>
+    <string name="share_ride">Share Ride</string>
+    <string name="call_masked">Call</string>
+</resources>
